@@ -9,7 +9,7 @@ Minimal & Creative Portfolio/CV/Biodata Solution
 
 ## Demo
 
-![Portfolio Demo](https://github.com/XevenTech/projects_snapshots/blob/main/Rubi/demo.png?raw=true "Portfolio Demo")
+[![Portfolio Demo](https://github.com/XevenTech/projects_snapshots/blob/main/Rubi/demo.png?raw=true "Portfolio Demo")](https://youtu.be/Q9k1ZYKnQGs)
 
 ## Prerequisites
 
